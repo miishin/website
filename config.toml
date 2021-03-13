@@ -11,7 +11,7 @@ pygmentsCodefences       = true
 [params]
     dateform             = "Mon Jan 02, 2006"
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
-    favicon              = "sam.ico"
+    favicon              = "ms.ico"
     homepage             = "Main"                           # What to call the home page link, link will not be rendered if empty
     footerText           = "Hugo Theme Sam"
 
