@@ -1,4 +1,4 @@
-baseurl                  = "https://miraisahara.com"           # Your domain name
+baseurl                  = "https://miraisahara.com"
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
