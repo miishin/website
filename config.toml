@@ -27,7 +27,7 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "/made"
-    text = "Things I've Made"
+    text = "Things I Did"
 
 [[params.mainMenu]]
     link = "/like"

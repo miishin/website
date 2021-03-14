@@ -1,5 +1,5 @@
 ---
-title: "Things I've Made"
+title: "Things I Did"
 url: "/made"
 ---
 
