@@ -4,3 +4,5 @@ url: "/made"
 ---
 
 [Code](https://github.com/miishin/)
+
+[Photography](/photos)
