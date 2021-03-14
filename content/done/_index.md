@@ -1,6 +1,6 @@
 ---
-title: "Things I Did"
-url: "/made"
+title: "Things I've Done"
+url: "/done"
 ---
 
 [Code](https://github.com/miishin/)

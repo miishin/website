@@ -12,8 +12,8 @@ pygmentsCodefences       = true
     dateform             = "Mon Jan 02, 2006"
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "ms.ico"
-    homepage             = "Main"                           # What to call the home page link, link will not be rendered if empty
-    footerText           = "Hugo Theme Sam"
+    homepage             = "Home"                           # What to call the home page link, link will not be rendered if empty
+    footerText           = "Made with Hugo"
 
 # Metadata for Open Graph and Twitter
     description          = "Mirai."               # Max 160 characters show in search results
@@ -26,8 +26,8 @@ pygmentsCodefences       = true
     text = "About Me"
 
 [[params.mainMenu]]
-    link = "/made"
-    text = "Things I Did"
+    link = "/done"
+    text = "Things I've Done"
 
 [[params.mainMenu]]
     link = "/like"
