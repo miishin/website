@@ -9,3 +9,5 @@ I'm Mirai, a 23 year old with a few too many interests. Over the past few months
 [LinkedIn](https://www.linkedin.com/in/miraisahara/)
 
 [Email: sahara.m@northeastern.edu](mailto:sahara.m@northeastern.edu)
+
+I'm @miraisahara or @miishin everywhere else.
