@@ -9,9 +9,9 @@ But some things I've worked on in reverse chronological order (more or less):
 
 ***
 
-A fun Discord bot
+A Fun Discord bot
 
-I made a bot for me and my friends' Discord server. It can respond to people, look for certain keywords to respond accordingly, and has several random generators (for things like deciding what to do in-game to randomly generating a boba order)
+I made a bot for me and my friends' Discord server. It looks for certain keywords to respond to people, targets specific people with dumb jokes, and has several random generators (for things like deciding what to do in-game to randomly generating a boba order). Deployed on Heroku so it's up 24/7. No GitHub link for privacy reasons.
 
 ***
 
