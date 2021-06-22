@@ -3,7 +3,13 @@ title: "Things I Like"
 url: "/like"
 ---
 
-Brief breakdown:
+[Music](https://rateyourmusic.com/~miishin)
+
+[Movies](https://letterboxd.com/miishin/)
+
+[Manga + Anime](https://anilist.co/user/miishin/)
+
+Brief breakdown of how I rate things:
 
 - 1: Irredeemably bad
 
@@ -24,9 +30,3 @@ Brief breakdown:
 - 9: Incredible
 
 - 10: A 9 with something special
-
-[Music](https://rateyourmusic.com/~miishin)
-
-[Movies](https://letterboxd.com/miishin/)
-
-[Manga + Anime](https://anilist.co/user/miishin/)
